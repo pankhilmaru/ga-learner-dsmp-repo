@@ -1,6 +1,6 @@
 ### Project Overview
 
- High Rated Games on Google Store Project
+ EDA and Data Preprocessing  -  High Rated Games on Google Store Project
 
 
 ### Learnings from the project
